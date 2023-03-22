@@ -7,7 +7,7 @@ weight: 10
 superuser: true
 
 # Role/position
-role: NLP Researcher, Germany
+role: Independent Researcher, Karlsruhe, Germany
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,10 @@ organizations:
 bio:
 
 interests:
-  
+- Natural Language Processing for Social Good
+- Text Adaptation
+- Emotion Analysis
+- Personality Detection
 
 # education:
 #   courses:
@@ -46,12 +49,12 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
-# - icon: semantic-scholar
-#   icon_pack: ai
-#   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=trop0NcAAAAJ&hl=en
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Sanja-%C5%A0tajner/1952894
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam

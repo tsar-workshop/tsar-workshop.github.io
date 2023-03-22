@@ -8,7 +8,7 @@ weight: 40
 superuser: true
 
 # Role/position
-role: Lecturer at Cardiff University
+role: Lecturer at Cardiff University, UK
 
 # Organizations/Affiliations
 # organizations:

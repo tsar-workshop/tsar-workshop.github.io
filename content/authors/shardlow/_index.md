@@ -8,7 +8,7 @@ weight: 30
 superuser: true
 
 # Role/position
-role: Senior Lecturer at Manchester Metropolitan University
+role: Senior Lecturer at Manchester Metropolitan University, UK
 
 
 # Organizations/Affiliations
