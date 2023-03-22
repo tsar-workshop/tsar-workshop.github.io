@@ -4,21 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Call for Papers
+    url: cfp
     weight: 10
-  - name: News
-    url: post
+  - name: Program
+    url: program
     weight: 20
-  - name: People
-    url: people
+  - name: Resources
+    url: resources
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
+  # - name: Contact
+  #   url: contact
+  #   weight: 40
+  - name: Previous Editions
+    identifier: previous
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+  - name: TSAR 2022 @ EMNLP 2022
+    parent: previous
+    url: https://www.taln.upf.edu/pages/tsar2022-ws/
+  

@@ -5,3 +5,8 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
