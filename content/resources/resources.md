@@ -24,6 +24,7 @@ design:
 
 ### Papers
 
+- [Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022)](https://aclanthology.org/volumes/2022.tsar-1/) (Štajner et al., TSAR 2022)
 - [Predicting Lexical Complexity in English Texts: The Complex 2.0 Dataset](https://link.springer.com/article/10.1007/s10579-022-09588-2) (Shardlow et al., LRE 2022)
 - [Automatic Text Simplification for Social Good: Progress and Challenges](https://aclanthology.org/2021.findings-acl.233) (Stajner, Findings 2021)
 - [Controllable Text Simplification with Explicit Paraphrasing](https://aclanthology.org/2021.naacl-main.277) (Maddela et al., NAACL 2021)
