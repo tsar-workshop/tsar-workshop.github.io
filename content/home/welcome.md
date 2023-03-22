@@ -16,4 +16,4 @@ design:
 
 The Text Simplification, Accessibility, and Readability (TSAR) workshop aims at bringing together researchers, developers and industries of assistive technologies, public organizations representatives, and other parties interested in the problem of making information more accessible to all citizens. We will discuss recent trends and developments in the area of automatic text simplification, automatic readability assessment, language resources and evaluation for text simplification, etc.
 
-The workshop will be an in-person event held during the RANLP 2023 conference on 7 of September, 2023.
+The workshop will be an in-person event held during the RANLP 2023 conference on September, 2023.
