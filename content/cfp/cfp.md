@@ -14,10 +14,10 @@ design:
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-- Submission deadline: TBD
-- Notification of acceptance: TBD
-- Camera-ready papers due: TBD
-- Workshop: September 2023
+- **Submission deadline:** 10 July 2023
+- **Notification of acceptance:** 5 August 2023
+- **Camera-ready papers due:** 25 August 2023
+- **Workshop:** September 2023
 
 ### Topics of Interest
 
