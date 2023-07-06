@@ -14,10 +14,10 @@ design:
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-- **Submission deadline:** 10 July 2023
+- **Submission deadline:** <del>10 July 2023</del> <span style="color:red">(Extended) 17 July 2023</span> 
 - **Notification of acceptance:** 5 August 2023
 - **Camera-ready papers due:** 25 August 2023
-- **Workshop:** 7 or 8 September 2023
+- **Workshop:** 7 September 2023
 
 
 Web provides an abundance of knowledge and information that can reach large populations. However, the way in which a text is written (vocabulary, syntax, or text organization/structure), or presented, can make it inaccessible to many people, especially to non-native speakers, people with low literacy, and people with some type of cognitive or linguistic impairments. The results of Adult Literacy Survey (OECD, 2023) indicate that approximately 16.7% of the adult population (averaged over 24 highly-developed countries) requires lexical, 50% syntactic, and 89.4% conceptual simplification of everyday texts (Štajner, 2021).
