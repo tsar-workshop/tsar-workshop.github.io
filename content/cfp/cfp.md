@@ -15,7 +15,7 @@ design:
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 - **Submission deadline:** <del>10 July 2023</del> <span style="color:red">(Extended) 17 July 2023</span> 
-- **Notification of acceptance:** 5 August 2023
+- **Notification of acceptance:** <del>5 August 2023</del> <span style="color:red">(Extended) 11 August 2023</span> 
 - **Camera-ready papers due:** 25 August 2023
 - **Workshop:** 7 September 2023
 
