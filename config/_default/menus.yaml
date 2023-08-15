@@ -7,12 +7,15 @@ main:
   - name: Call for Papers
     url: cfp
     weight: 10
+  - name: Camera Ready
+    url: camera-ready
+    weight: 20
   - name: Program
     url: program
-    weight: 20
+    weight: 30
   - name: Resources
     url: resources
-    weight: 30
+    weight: 40
   # - name: Contact
   #   url: contact
   #   weight: 40
