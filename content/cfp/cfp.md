@@ -68,4 +68,34 @@ Submissions that do not conform to the required styles, including paper size, ma
 
 ### Program Committee
 
-TBA
+- Sweta	Agrawal (University of Maryland)
+- Rodrigo Alarcon (Universidad Carlos III de Madrid)
+- Oliver Alonzo (Rochester Institute of Technology)
+- Fernando Alva-Manchego (Cardiff University)
+- Susana	Bautista	(Universidad Francisco de Vitoria)
+- Rémi	Cardon	(CENTAL, ILC, Université Catholique de Louvain)
+- Jasper	Degraeuwe	(Ghent University)
+- Anna	Dmitrieva	(University of Helsinki)
+- Sarah	Ebling	(University of Zurich)
+- Liana	Ermakova	(HCTI EA-4249, Université de Bretagne Occidentale)
+- Itziar	Gonzalez-Dios	(HiTZ Basque Center for Language Technologies - Ixa, University of the Basque Country UPV/EHU)
+- Natalia	Grabar	(CNRS STL UMR8163, Université de Lille)
+- Jaap	Kamps	(University of Amsterdam)
+- Tannon	Kew	(University of Zurich)
+- Philippe	Laban	(Salesforce Research)
+- Bruce W.	Lee	(University of Pennsylvania)
+- Mounica	Maddela	(Georgia Institute of Technology)
+- Christina	Niklaus	(University of St. Gallen0
+- Tadashi	Nomoto	(National Institute of Japanese Literature)
+- Maja	Popović	(ADAPT, Dublin City University)
+- Piotr	Przybyła	(Universitat Pompeu Fabra)
+- Jipeng	Qiang	(Yangzhou University)
+- Horacio	Saggion	(Universitat Pompeu Fabra)
+- Matthew	Shardlow (Manchester Metropolitan University)
+- Kim Cheng	Sheang	(Universitat Pompeu Fabra)
+- Sanja	Stajner	(Independent Researcher)
+- Regina	Stodden	(Heinrich Heine University Düsseldorf)
+- Giulia	Venturi	(Institute of Computational Linguistics "Antonio Zampolli" (ILC-CNR))
+- Laura	Vásquez-Rodríguez	(University of Manchester)
+- Marcos	Zampieri	(George Mason University)
+
