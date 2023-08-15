@@ -17,7 +17,6 @@ organizations:
 bio:
 
 interests:
-  
 
 # education:
 #   courses:
@@ -71,4 +70,3 @@ highlight_name: true
 user_groups:
 - Speakers
 ---
-
