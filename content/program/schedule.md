@@ -19,14 +19,14 @@ design:
 | 10:00 - 11:00 | **Invited Talk:** [Improving Text and Web Accessibility for Adults with Autism: Insights from Eye-Tracking Experiments](../talks/) (Victoria Yaneva) |
 | 11:00 - 11:30 | Coffee Break |
 | 11:30 - 13:00 | **Oral Session 1** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:30 - 11:50 | Automatic Text Simplification for People with Cognitive Disabilities: Resource Creation within the XXXXXXXXX Project<br>*Isabel Espinosa-Zaragoza, José Ignacio Abreu Salas, Paloma Moreda Pozo and Manuel Palomar Sanz* |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:50 - 12:10 | Cross-lingual Mediation: Readability Effects<br>*Maria Kunilovskaya, Ruslan Mitkov and Eveline Wandl-Vogt* |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12:10 - 12:30 | Context-aware Swedish Lexical Simplification<br>*Emil Graichen and Arne Jonsson* |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12:30 - 12:50 | Using ChatGPT as a CAT tool in Easy Language translation<br>*Silvana Deilen, Sergio Hernández Garrido, Ekaterina Lapshinova-Koltunski and Christiane Maaß* |
+|  | Automatic Text Simplification for People with Cognitive Disabilities: Resource Creation within the XXXXXXXXX Project<br>*Isabel Espinosa-Zaragoza, José Ignacio Abreu Salas, Paloma Moreda Pozo and Manuel Palomar Sanz* |
+|  | Cross-lingual Mediation: Readability Effects<br>*Maria Kunilovskaya, Ruslan Mitkov and Eveline Wandl-Vogt* |
+|  | Context-aware Swedish Lexical Simplification<br>*Emil Graichen and Arne Jonsson* |
+|  | Using ChatGPT as a CAT tool in Easy Language translation<br>*Silvana Deilen, Sergio Hernández Garrido, Ekaterina Lapshinova-Koltunski and Christiane Maaß* |
 | 13:00 - 14:30 | Lunch Break |
 | 14:30 - 15:15 | **Oral Session 2** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14:30 - 15:15 | Document-level Text Simplification with Coherence Evaluation<br>*Laura Vásquez-Rodríguez, Matthew Shardlow, Piotr Przybyła and Sophia Ananiadou* |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14:30 - 15:15 | On Operations in Automatic Text Simplification<br>*Rémi Cardon and Adrien Bibal* |
+|  | Document-level Text Simplification with Coherence Evaluation<br>*Laura Vásquez-Rodríguez, Matthew Shardlow, Piotr Przybyła and Sophia Ananiadou* |
+|  | On Operations in Automatic Text Simplification<br>*Rémi Cardon and Adrien Bibal* |
 | 15:15 - 16:15 | **Poster Session** |
 |  | Simplification by Lexical Deletion<br>*Matthew Shardlow and Piotr Przybyła* |
 |  | LSLlama: Fine-Tuned LLaMA for Lexical Simplification<br>*Anthony Baez and Horacio Saggion* |
