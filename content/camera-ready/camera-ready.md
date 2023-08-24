@@ -27,4 +27,5 @@ Appendices must appear right after the References.
 For this edition of TSAR we are requesting authors of accepted papers to include a **lay summary** of their paper in the camera-ready version.
 This lay summary should not be more than 400 words. Some guidelines on how to write a lay summary can be found [here](https://elifesciences.org/inside-elife/85518309/plain-language-summaries-how-to-write-an-elife-digest). 
 Extra space is allowed after the 9th page (5th page for short papers) for a lay summary section.
+This section should be titled **Lay Summary** and appear at the end of the paper, after the discussion/conclusions section and before the references.
 
