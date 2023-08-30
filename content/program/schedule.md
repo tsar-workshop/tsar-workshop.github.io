@@ -19,7 +19,7 @@ design:
 | 10:00 - 11:00 | **Invited Talk:** [Improving Text and Web Accessibility for Adults with Autism: Insights from Eye-Tracking Experiments](../talks/) (Victoria Yaneva) |
 | 11:00 - 11:30 | Coffee Break |
 | 11:30 - 13:00 | **Oral Session 1** |
-|  | Automatic Text Simplification for People with Cognitive Disabilities: Resource Creation within the XXXXXXXXX Project<br>*Isabel Espinosa-Zaragoza, José Ignacio Abreu Salas, Paloma Moreda Pozo and Manuel Palomar Sanz* |
+|  | Automatic Text Simplification for People with Cognitive Disabilities: Resource Creation within the ClearText Project<br>*Isabel Espinosa-Zaragoza, José Ignacio Abreu Salas, Paloma Moreda Pozo and Manuel Palomar Sanz* |
 |  | Cross-lingual Mediation: Readability Effects<br>*Maria Kunilovskaya, Ruslan Mitkov and Eveline Wandl-Vogt* |
 |  | Context-aware Swedish Lexical Simplification<br>*Emil Graichen and Arne Jonsson* |
 |  | Using ChatGPT as a CAT tool in Easy Language translation<br>*Silvana Deilen, Sergio Hernández Garrido, Ekaterina Lapshinova-Koltunski and Christiane Maaß* |
