@@ -10,12 +10,12 @@ design:
   columns: "1"
 ---
 
-### Thursday, 7 September 2023
+### Thursday, 7 September 2023 (Hall Varna, [Cherno More hotel](https://www.chernomorebg.com/en/conference-centre.html))
 
 
-| Time | Activity |
+| Time<br>(EEST, BST+2, CEST+1) | Activity |
 | :---: | :----------- |
-| 09:00 - 10:00 | Opening Remarks |
+| 09:30 - 10:00 | Opening Remarks |
 | 10:00 - 11:00 | **Invited Talk:** [Improving Text and Web Accessibility for Adults with Autism: Insights from Eye-Tracking Experiments](../talks/) (Victoria Yaneva) |
 | 11:00 - 11:30 | Coffee Break |
 | 11:30 - 13:00 | **Oral Session 1** |
