@@ -41,7 +41,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://mzampieri.com/
+  link: https://siangooding.github.io/
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:'
