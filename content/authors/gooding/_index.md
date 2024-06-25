@@ -1,13 +1,15 @@
 ---
 # Display name
-title: Sanja Štajner
-weight: 60
+title: Sian Gooding
+
+weight: 70
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Independent Researcher, Karlsruhe, Germany
+role: Research Scientist at Google DeepMind, UK
+
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +20,7 @@ organizations:
 bio:
 
 interests:
-- Natural Language Processing for Social Good
-- Text Adaptation
-- Emotion Analysis
-- Personality Detection
+- 
 
 # education:
 #   courses:
@@ -42,22 +41,22 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://stajnersanja.wixsite.com/sanja
+  link: https://mzampieri.com/
 # - icon: envelope
 #   icon_pack: fas
-#   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
+#   link: 'mailto:'
 # - icon: twitter
 #   icon_pack: fab
-#   link: https://twitter.com/feralvam
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=trop0NcAAAAJ&hl=en
-- icon: semantic-scholar
-  icon_pack: ai
-  link: https://www.semanticscholar.org/author/Sanja-%C5%A0tajner/1952894
+#   link: https://twitter.com/
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?hl=en&user=fUSUaFUAAAAJ
+# - icon: semantic-scholar
+#   icon_pack: ai
+#   link: https://www.semanticscholar.org/author/
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/feralvam
+#   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,4 +74,3 @@ highlight_name: true
 user_groups:
 - Organizers
 ---
-

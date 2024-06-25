@@ -14,30 +14,31 @@ design:
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-- **Submission deadline:** <del>10 July 2023</del> <span style="color:red">(Extended) 17 July 2023</span> 
-- **Notification of acceptance:** <del>5 August 2023</del> <span style="color:red">(Extended) 11 August 2023</span> 
-- **Camera-ready papers due:** 25 August 2023
-- **Workshop:** 7 September 2023
+- **Submission deadline:** 06 September 2024
+- **Notification of acceptance:** 20 September 2024
+- **Camera-ready papers due:** 04 October 2024
+- **Workshop:** 15-16 November 2024
 
 
-Web provides an abundance of knowledge and information that can reach large populations. However, the way in which a text is written (vocabulary, syntax, or text organization/structure), or presented, can make it inaccessible to many people, especially to non-native speakers, people with low literacy, and people with some type of cognitive or linguistic impairments. The results of Adult Literacy Survey (OECD, 2023) indicate that approximately 16.7% of the adult population (averaged over 24 highly-developed countries) requires lexical, 50% syntactic, and 89.4% conceptual simplification of everyday texts (Štajner, 2021).
+The organisers are pleased to present the third instalment of the annual workshop on Text Simplification, Accessibility and Readability (TSAR 2024). TSAR aims to provide a cohesive environment to draw members of the computational linguistics, natural language processing and artificial intelligence communities working on the use of automated techniques to make language accessible for all. Previous editions of the workshop have been held at EMNLP in 2022 and RANLP in 2023 with significant engagement and participation driving research and building community in the fields of Text Simplification, Accessibility and Readability.
 
-Research on automatic text simplification (TS), textual accessibility, and readability thus have the potential to improve social inclusion of marginalised populations. These related research areas have increasingly attracted more and more attention in the past ten years, evidenced by the growing number of publications in NLP conferences. While only about 300 articles in Google Scholar mentioned TS in 2010, this number has increased to about 600 in 2015 and is greater than 1000 in 2020 (Štajner, 2021).
+Research in automatic text simplification (TS) has often focused on proposing the use of methods derived from the deep learning paradigm ([Glavaš and Štajner, 2015](https://aclanthology.org/P15-2011/); [Paetzold and Specia, 2016](https://ojs.aaai.org/index.php/AAAI/article/view/9885); [Nisioi et al., 2017](https://aclanthology.org/P17-2014/); [Zhang and Lapata, 2017](https://aclanthology.org/D17-1062/); [Martin et al., 2020](https://aclanthology.org/2020.lrec-1.577/); [Maddela et al., 2021](https://aclanthology.org/2021.naacl-main.277/); [Sheang and Saggion, 2021](https://aclanthology.org/2021.inlg-1.38/)). Recently, work in text simplification has leveraged the new era of foundational large language models through fine-tuning and prompt-engineering to produce simplifications ([Kew et al. 2023](https://aclanthology.org/2023.emnlp-main.821/); [Cripwell et al. 2023](https://aclanthology.org/2023.eacl-main.70/); [Farajidizaji et al. 2024](https://aclanthology.org/2024.lrec-main.815/)).  
 
-Recent research in automatic text simplification has mostly focused on proposing the use of methods derived from the deep learning paradigm (Glavaš and Štajner, 2015; Paetzold and Specia, 2016; Nisioi et al., 2017; Zhang and Lapata, 2017; Martin et al., 2020; Maddela et al., 2021; Sheang and Saggion, 2021). However, there are many important aspects of the automatic text simplification that need the attention of our community: the design of appropriate evaluation metrics, the development of context-aware simplification solutions, the creation of appropriate language resources to support research and evaluation, the deployment of simplification in real environments for real users, the study of discourse factors in text simplification, the identification of factors affecting the readability of a text, etc. To overcome those issues, there is a need for collaboration of CL/NLP researchers, machine learning and deep learning researchers, UI/UX and Accessibility professionals, as well as public organisations representatives (Štajner, 2021).
+However, there are many important aspects in automatic TS that require the attention of our community: the design of appropriate evaluation metrics ([Štajner et al., 2022](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.991242/full)), the development of context-aware simplification solutions ([Yimam et al., 2018](https://aclanthology.org/W18-0507/); [Shardlow et al., 2022a](https://aclanthology.org/2021.semeval-1.1/); [Saggion et al., 2022](https://aclanthology.org/2022.tsar-1.31/)), the creation of appropriate language resources to support research and evaluation ([Maddela and Xu, 2018](https://aclanthology.org/D18-1410/); [Shardlow et al., 2020](https://aclanthology.org/2020.readi-1.9/); [Ferres and Saggion, 2022](https://aclanthology.org/2022.lrec-1.383/); [North et al., 2022](https://aclanthology.org/2022.coling-1.529/)), the deployment of simplification in real environments for real users ([Lee and Yeung, 2018](https://aclanthology.org/C18-1019/); [Alonzo et al., 2022](https://aclanthology.org/2022.tsar-1.11/)), the study of discourse factors in text simplification ([Zhong et al., 2019](https://cdn.aaai.org/ojs/6520/6520-13-9745-1-10-20200517.pdf)), the identification of factors affecting the readability of a text ([Shardlow et al., 2022b](https://link.springer.com/article/10.1007/s10579-022-09588-2)), among others.  To overcome those issues, there is a need for collaboration of CL/NLP researchers, machine learning and deep learning researchers, UI/UX and Accessibility professionals, as well as public organisations representatives ([Štajner, 2021](https://aclanthology.org/2021.findings-acl.233/)).
 
-The proposed TSAR workshop builds upon the recent success of several workshops that covered a subset of our topics of interest, including the SEPLN 2021 Current Trends in Text Simplification (CTTS) and the SimpleText workshop at CLEF 2021, the TSAR-2022 at EMNLP 2022, the recent Special Issue on Text Simplification, Accessibility, and Readability at Frontiers in AI, as well as the birds-of-a-feather event on Text Simplification at NAACL 2021 (over 50 participants).
+Research on automatic text simplification, textual accessibility, and readability have the potential to improve social inclusion of marginalized populations. These related research areas have attracted attention in the past ten years, evidenced by the growing number of publications in NLP conferences. While only about 300 articles in Google Scholar mentioned TS in 2010, this number has increased to about 600 in 2015 and greater than 1000 in 2020 ([Štajner, 2021](https://aclanthology.org/2021.findings-acl.233/)). This number has certainly increased rapidly since 2020, at the recent LREC-COLING 2024 conference there were 50 new papers presented on related topics across the main conference and associated workshops.
 
-The TSAR workshop aims to foster collaboration among all parties interested in making information more accessible to all people.  We will discuss recent trends and developments in the area of automatic text simplification, text accessibility, automatic readability assessment, language resources and evaluation for text simplification, etc.
+The TSAR 2024 workshop builds upon the recent success of several regional workshops that covered a subset of our topics of interest, including READI Workshops at [LREC 2022](https://cental.uclouvain.be/readi2022/) and [LREC 2024](https://cental.uclouvain.be/readi2024/), SEPLN 2021 [Workshop on Current Trends in Text Simplification (CTTS)](https://taln.upf.edu/pages/cttsr2021-ws/)), the [SimpleText workshop at CLEF 2021](https://simpletext-project.com/2021/clef/en/), as well as the birds-of-a-feather events on Text Simplification at NAACL 2021 (over 50 participants), ACL 2022 and EMNLP 2023.
+
 
 ### Topics of Interest
 
-We invite contributions on the following topics (among others):
+Submissions to the workshop will be organised into two tracks, a main track and a special track with a focus on evaluation. 
 
+The **main track** will invite contributions on the following topics, aligned with previous editions of the workshop:
 - Lexical simplification;
 - Syntactic simplification;
 - Discourse simplification;
-- Paragraph simplification;
 - Document simplification;
 - Modular and end-to-end TS;
 - Sequence-to-sequence and zero-shot TS;
@@ -45,53 +46,68 @@ We invite contributions on the following topics (among others):
 - Text complexity assessment;
 - Complex word identification and lexical complexity prediction;
 - Corpora, lexical resources, and benchmarks for TS;
-- Evaluation of TS systems;
 - Domain specific TS (e.g. health, legal);
-- Other related topics (e.g. empirical and eye-tracking studies);
-- Assistive technologies for improving readability and comprehension including those going beyond text.
+- Assistive technologies for readability and comprehension beyond text.
+- Other related readability and accessibility topics (e.g. empirical and eye-tracking studies).
+
+The **special track** will focus on **Evaluation of Text Simplification and Readability Systems**. Papers in this track will be ranked and assessed separately to those in the main track. Topics include, but are not limited to:
+- New evaluation measures and metrics for the assessment of text simplification, accessibility and/or readability;
+- Reference based metrics;
+- Referenceless metrics;
+- Metrics at varying levels of granularity (Doc/Paragraph/Sentence/Word/Sub-word);
+- Readability based metrics;
+- Alignment of new and existing metrics to human judgments;
+- The role of LLMs in the evaluation of systems for text simplification, accessibility and/or readability.
+
 
 ### Submissions
 
-We welcome three types of papers: long papers, short papers and demos. Submissions should be made to via [START](https://softconf.com/ranlp23/TSAR/)
+We welcome three types of papers: long papers, short papers and demos. The submission link will be made available shortly.
 
-The papers should present novel research. The review will be double blind and thus all submissions should be anonymized. 
+**Long and Short Papers:** We adhere to same guidelines as [EMNLP 2024](https://2024.emnlp.org/calls/main_conference_papers/#paper-submission-details).
 
-Paper submissions must use the official [RANLP 2023 Templates](http://ranlp.org/ranlp2023/index.php/submissions/), which are available as an [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-ranlp-2023-proceedings/dwjrqsgfrrgm) template and also downloadable directly ([Latex](http://ranlp.org/ranlp2023/Templates/ranlp2023-LaTeX.zip) and [Word](http://ranlp.org/ranlp2023/Templates/ranlp2023-word.docx)). Authors may not modify these style files or use templates designed for other conferences. 
- 
-Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+**Demo Papers:** Demos should be no more than two (2) pages, including references, and should describe implemented systems related to the topics of interest of the workshop. It also should include a link to a short screencast of the working software. In addition, authors of demo papers must be willing to present a demo of their system during TSAR 2024.
 
-**Long Papers:**  Long papers must describe substantial, original, completed, and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included.  Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references. Final versions of long papers will be given one additional page of content (up to 9 pages), so that reviewers’ comments can be taken into account. Long papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long papers presented orally and long papers presented as posters.
-
-**Short Papers:**  Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead, short papers should have a point that can be made in a few pages. Some kinds of short papers include: a small, focused contribution; a negative result; an opinion piece; an interesting application nugget. Short papers may consist of up to four (4) pages of content, plus unlimited pages of references. Final versions of short papers will be given one additional page of content (up to 5 pages), so that reviewers' comments can be taken into account. Short papers will be presented orally or as posters as determined by the program committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and short papers presented as posters. 
-
-**Demo Papers:**  Demos should be no more than two (2) pages, including references, and should describe implemented systems related to the topics of interest of the workshop. It also should include a link to a short screencast of the working software. In addition, authors of demo papers must be willing to present a demo of their system during TSAR 2023.
 
 ### Program Committee
 
-- Bruce W.	Lee	(University of Pennsylvania)
-- Christina	Niklaus	(University of St. Gallen)
-- Fernando Alva-Manchego (Cardiff University)
-- Giulia	Venturi	(Institute of Computational Linguistics "Antonio Zampolli" (ILC-CNR))
-- Horacio	Saggion	(Universitat Pompeu Fabra)
-- Jaap	Kamps	(University of Amsterdam)
-- Jasper	Degraeuwe	(Ghent University)
-- Jipeng	Qiang	(Yangzhou University)
-- Kim Cheng	Sheang	(Universitat Pompeu Fabra)
-- Laura	Vásquez-Rodríguez	(University of Manchester)
-- Liana	Ermakova	(HCTI EA-4249, Université de Bretagne Occidentale)
-- Maja	Popović	(ADAPT, Dublin City University)
-- Matthew	Shardlow (Manchester Metropolitan University)
-- Mounica	Maddela	(Georgia Institute of Technology)
-- Natalia	Grabar	(CNRS STL UMR8163, Université de Lille)
-- Oliver Alonzo (Rochester Institute of Technology)
-- Philippe	Laban	(Salesforce Research)
-- Piotr	Przybyła	(Universitat Pompeu Fabra)
-- Regina	Stodden	(Heinrich Heine University Düsseldorf)
-- Rodrigo Alarcon (Universidad Carlos III de Madrid)
-- Rémi	Cardon	(CENTAL, ILC, Université Catholique de Louvain)
-- Sarah	Ebling	(University of Zurich)
-- Susana	Bautista	(Universidad Francisco de Vitoria)
-- Sweta	Agrawal (University of Maryland)
-- Tadashi	Nomoto	(National Institute of Japanese Literature)
-- Tannon	Kew	(University of Zurich)
+- Anna Dmitrieva (University of Helsinki); 
+- Arne Jonsson (Linköping University);
+- Christina Niklaus (University of St. Gallen);
+- Daniel Wiechmann (University of Amsterdam);
+- Daniele Schicchi (Università di Palermo);
+- David Kauchak (Pomona College);
+- Dennis Aumiller (Cohere);
+- Emad Alghamdi (King Abdulaziz University);
+- Felice Dell'Orletta (Istituto di Linguistica Computazionale "Antonio Zampolli");
+- Freya Hewett (Humboldt Institute for Internet and Society);
+- Giulia Venturi (Institute of Computational Linguistics "Antonio Zampolli" - ILC-CNR);
+- Itziar Gonzalez-Dios (HiTZ Basque Center for Language Technologies - Ixa, University of the Basque Country UPV/EHU);
+- Jaap Kamps (University of Amsterdam);
+- Jan Trienes (University of Duisburg-Essen);
+- Jasper Degraeuwe (Ghent University);
+- Jipeng Qiang (Yangzhou University);
+- Joseph Imperial (University of Bath);
+- Laura Vásquez-Rodriguez (University of Manchester);
+- Liam Cripwell (LORIA);
+- Maja Popović (ADAPT, Dublin City University);
+- Margot Madina (Darmstadt University of Applied Sciences);
+- Michael Gille (Hamburg University of Applied Science);
+- Michael Ryan (Georgia Institute of Technology);
+- Mounica Maddela (Georgia Institute of Technology);
+- Natalia Grabar  (Université de Lille);
+- Oliver Alonzo (Rochester Institute of Technology);
+- Philippe Laban (Salesforce Research);
+- Piotr Przybyła (Universitat Pompeu Fabra);
+- Regina Stodden (Heinrich Heine University Düsseldorf);
+- Rémi Cardon (CENTAL, ILC, Université Catholique de Louvain);
+- Sarah Ebling (University of Zurich);
+- Silvana Deilen (University of Hildesheim);
+- Sowmya Vajjala (National Research Council Canada);
+- Susana Bautista (Universidad Francisco de Vitoria);
+- Sweta Agrawal (University of Maryland);
+- Tadashi Nomoto (National Institute of Japanese Literature);
+- Tomas Goldsack (University of Sheffield);
+- Victoria Yaneva (National Board of Medical Examiners);
+- Yannick Parmentier (LORIA)
 

@@ -2,7 +2,7 @@
 # Display name
 title: Matthew Shardlow
 
-weight: 30
+weight: 10
 
 # Is this the primary user of the site?
 superuser: true

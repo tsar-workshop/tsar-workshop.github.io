@@ -7,22 +7,28 @@ main:
   - name: Call for Papers
     url: cfp
     weight: 10
-  - name: Camera Ready
-    url: camera-ready
-    weight: 20
+  # - name: Camera Ready
+  #   url: camera-ready
+  #   weight: 20
   - name: Program
     url: program
     weight: 30
-  - name: Invited Talks
-    url: talks
-    weight: 40
+  # - name: Invited Talks
+  #   url: talks
+  #   weight: 40
   - name: Resources
     url: resources
     weight: 50  
   - name: Previous Editions
     identifier: previous
     weight: 60
+  - name: TSAR 2023 @ RANLP 2023
+    parent: previous
+    url: https://aclanthology.org/volumes/2023.tsar-1/
+    weight: 10
   - name: TSAR 2022 @ EMNLP 2022
     parent: previous
     url: https://www.taln.upf.edu/pages/tsar2022-ws/
+    weight: 20
+  
   

@@ -2,7 +2,7 @@
 # Display name
 title: Fernando Alva-Manchego
 
-weight: 40
+weight: 30
 
 # Is this the primary user of the site?
 superuser: true

@@ -10,10 +10,12 @@ design:
   columns: "1"
 ---
 
-### Thursday, 7 September 2023 (Hall Varna, [Cherno More hotel](https://www.chernomorebg.com/en/conference-centre.html))
+TBD
+
+<!-- ### Thursday, 7 September 2023 (Hall Varna, [Cherno More hotel](https://www.chernomorebg.com/en/conference-centre.html))
 
 
-| Time<br>(EEST, BST+2, CEST+1) | Activity |
+ | Time<br>(EEST, BST+2, CEST+1) | Activity |
 | :---: | :----------- |
 | 09:30 - 10:00 | **Opening Remarks** -- *Presented by: Matthew Shardlow*|
 | 10:00 - 11:00 | **Invited Talk:** [Improving Text and Web Accessibility for Adults with Autism: Insights from Eye-Tracking Experiments](../talks/) (Victoria Yaneva) |
@@ -37,4 +39,4 @@ design:
 |  | [Beyond Vocabulary: Capturing Readability from Children's Difficulty](papers/ahmed-2023-beyond.pdf) [[poster](posters/ahmed-2023-beyond.pdf)]<br>*Arif Ahmed* |
 |  | [Comparing Generic and Expert Models for Genre-Specific Text Simplification](papers/li-etal-2023-comparing.pdf) [[poster](posters/li-etal-2023-comparing.pdf)] <br>*Zihao LI, Matthew Shardlow and Fernando Alva-Manchego* |
 | 16:15 - 16:45 | Coffee Break |
-| 16:45 - 17:30 | **Open Discussion Session + Closing** -- *Session Chairs:  Laura Vásquez-Rodríguez and Matthew Shardlow* |
+| 16:45 - 17:30 | **Open Discussion Session + Closing** -- *Session Chairs:  Laura Vásquez-Rodríguez and Matthew Shardlow* | -->
