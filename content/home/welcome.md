@@ -16,4 +16,4 @@ design:
 
 The Text Simplification, Accessibility, and Readability (TSAR) workshop aims at bringing together researchers, developers and industries of assistive technologies, public organizations representatives, and other parties interested in the problem of making information more accessible to all citizens. We will discuss recent trends and developments in the area of automatic text simplification, automatic readability assessment, language resources and evaluation for text simplification, etc.
 
-The workshop will be an in-person event held during the [EMNLP 2024](https://2024.emnlp.org/) conference on 15-16 November, 2024.
+The workshop will be an in-person event held during the [EMNLP 2024](https://2024.emnlp.org/) conference on 15 November, 2024.
