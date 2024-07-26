@@ -17,7 +17,7 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 - **Submission deadline:** 06 September 2024
 - **Notification of acceptance:** 20 September 2024
 - **Camera-ready papers due:** 04 October 2024
-- **Workshop:** 15-16 November 2024
+- **Workshop:** 15 November 2024
 
 
 The organisers are pleased to present the third instalment of the annual workshop on Text Simplification, Accessibility and Readability (TSAR 2024). TSAR aims to provide a cohesive environment to draw members of the computational linguistics, natural language processing and artificial intelligence communities working on the use of automated techniques to make language accessible for all. Previous editions of the workshop have been held at EMNLP in 2022 and RANLP in 2023 with significant engagement and participation driving research and building community in the fields of Text Simplification, Accessibility and Readability.
@@ -88,7 +88,7 @@ We welcome three types of papers: long papers, short papers and demos. The submi
 - Jasper Degraeuwe (Ghent University);
 - Jipeng Qiang (Yangzhou University);
 - Joseph Imperial (University of Bath);
-- Laura Vásquez-Rodriguez (University of Manchester);
+- Laura Vásquez-Rodriguez (Idiap Research Institute);
 - Liam Cripwell (LORIA);
 - Maja Popović (ADAPT, Dublin City University);
 - Margot Madina (Darmstadt University of Applied Sciences);
