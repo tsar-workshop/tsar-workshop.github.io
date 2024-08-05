@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sian Gooding
+title: Regina Stodden
 
 weight: 70
 
@@ -8,7 +8,7 @@ weight: 70
 superuser: true
 
 # Role/position
-role: Research Scientist at Google DeepMind, UK
+role: PhD Student at Heinrich Heine University Düsseldorf, Germany
 
 
 # Organizations/Affiliations
@@ -41,7 +41,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://siangooding.github.io/
+  link: https://user.phil.hhu.de/~stodden/
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:'
@@ -72,5 +72,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Organizers
 ---
