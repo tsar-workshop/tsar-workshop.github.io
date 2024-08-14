@@ -12,27 +12,39 @@ design:
 
 ### Books and Surveys
 
+- [Lexical Complexity Prediction: An Overview](https://dl.acm.org/doi/pdf/10.1145/3557885) (North et al., ACM Computing Surveys 2023)
 - [Data-Driven Sentence Simplification: Survey and Benchmark](https://aclanthology.org/2020.cl-1.4) (Alva-Manchego et al., CL 2020)
 - [Automatic Text Simplification](https://doi.org/10.2200/S00700ED1V01Y201602HLT032) (Saggion, Synth. Lect. Hum. Lang 2017)
 - [A Survey on Lexical Simplification](https://doi.org/10.1613/jair.5526) (Paetzold & Specia, JAIR 2017)
 - [A Survey of Automated Text Simplification](https://dx.doi.org/10.14569/SpecialIssue.2014.040109) (Shardlow, IJACSA 2014)
-- [A survey of Research on Text Simplification](https://doi.org/10.1075/itl.165.2.06sid) (Siddharthan, ITL 2014)
+- [A Survey of Research on Text Simplification](https://doi.org/10.1075/itl.165.2.06sid) (Siddharthan, ITL 2014)
 
 ### Tutorials
 
+- [Automatic and Human-AI Interactive Text Generation (with a focus on Text Simplification and Revision)](https://acl2024-text-generation-tutorial.github.io/) (Dou et al., ACL 2024) [[pdf](https://aclanthology.org/2024.acl-tutorials.2.pdf)]
 - [Data-Driven Text Simplification](https://taln.upf.edu/pages/coling2018simplification) (Štajner & Saggion, COLING 2018) [[pdf](https://aclanthology.org/C18-3005.pdf)] [[slides](https://taln.upf.edu/pages/coling2018simplification/text_simplification_tutorial_COLING_2018_V1.pdf)] [[bibliography](https://taln.upf.edu/pages/coling2018simplification/the_simplification_biblio.pdf)]
 
 ### Papers
 
+- [The BEA 2024 Shared Task on the Multilingual Lexical Simplification Pipeline](https://aclanthology.org/2024.bea-1.51/) (Shardlow et al., BEA 2024)
+- [BLESS: Benchmarking Large Language Models on Sentence Simplification](https://aclanthology.org/2023.emnlp-main.821/) (Kew et al., EMNLP 2023)
+- [LENS: A Learnable Evaluation Metric for Text Simplification](https://aclanthology.org/2023.acl-long.905/) (Maddela et al., ACL 2023)
+- [Revisiting non-English Text Simplification: A Unified Multilingual Benchmark](https://aclanthology.org/2023.acl-long.269/) (Ryan et al., ACL 2023)
 - [Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022)](https://aclanthology.org/volumes/2022.tsar-1/) (Štajner et al., TSAR 2022)
+- [Findings of the TSAR-2022 Shared Task on Multilingual Lexical Simplification](https://aclanthology.org/2022.tsar-1.31/) (Saggion et al., TSAR 2022)
+- [Lexical Simplification Benchmarks for English, Portuguese, and Spanish](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.991242/full) (Štajner et al., Froniers in AI 2022)
 - [Predicting Lexical Complexity in English Texts: The Complex 2.0 Dataset](https://link.springer.com/article/10.1007/s10579-022-09588-2) (Shardlow et al., LRE 2022)
+- [The (Un)Suitability of Automatic Evaluation Metrics for Text Simplification](https://aclanthology.org/2021.cl-4.28/) (Alva-Manchego et al., CL 2021)
+- [SemEval-2021 Task 1: Lexical Complexity Prediction](https://aclanthology.org/2021.semeval-1.1/) (Shardlow et al., SemEval 2021)
 - [Automatic Text Simplification for Social Good: Progress and Challenges](https://aclanthology.org/2021.findings-acl.233) (Stajner, Findings 2021)
 - [Controllable Text Simplification with Explicit Paraphrasing](https://aclanthology.org/2021.naacl-main.277) (Maddela et al., NAACL 2021)
 - [Controllable Sentence Simplification with a Unified Text-to-Text Transfer Transformer](https://aclanthology.org/2021.inlg-1.38) (Sheang & Saggion, INLG 2021)
+- [Neural CRF Model for Sentence Alignment in Text Simplification](https://aclanthology.org/2020.acl-main.709/) (Jiang et al., ACL 2020)
 - [Automatic Text Simplification Tools for Deaf and Hard of Hearing Adults: Benefits of Lexical Simplification and Providing Users with Autonomy](https://dl.acm.org/doi/10.1145/3313831.3376563) (Alonzo et al., CHI 2020)
 - [Controllable Sentence Simplification](https://aclanthology.org/2020.lrec-1.577) (Martin et al., LREC 2020)
 - [EASIER System. Language Resources for Cognitive Accessibility](https://dl.acm.org/doi/10.1145/3373625.3418006) (Moreno et al., ASSETS 2020)
 - [Improving lexical coverage of text simplification systems for Spanish](https://www.sciencedirect.com/science/article/pii/S0957417418305426) (Štajner et al., Expert Syst. Appl 2019)
+- [A Report on the Complex Word Identification Shared Task 2018](https://aclanthology.org/W18-0507/) (Yimam et al., BEA 2018)
 - [BLEU is Not Suitable for the Evaluation of Text Simplification](https://aclanthology.org/D18-1081) (Sulem et al., EMNLP 2018)
 - [Semantic Structural Evaluation for Text Simplification](https://aclanthology.org/N18-1063) (Sulem et al., NAACL 2018)
 - [Is this Sentence Difficult? Do you Agree?](https://aclanthology.org/D18-1289) (Brunato et al., EMNLP 2018)
@@ -42,7 +54,7 @@ design:
 - [Sentence Simplification with Deep Reinforcement Learning](https://aclanthology.org/D17-1062) (Zhang & Lapata, EMNLP 2017)
 - [Unsupervised Lexical Simplification for Non-Native Speakers](https://ojs.aaai.org/index.php/AAAI/article/view/9885) (Paetzold & Specia, AAAI 2016)
 - [Optimizing Statistical Machine Translation for Text Simplification](https://aclanthology.org/Q16-1029) (Xu et al., TACL 2016)
-- [YATS: Yet Another Text Simplifier](https://link.springer.com/chapter/10.1007/978-3-319-41754-7_32) (Ferrés et al., NLDB 2016)
+<!-- - [YATS: Yet Another Text Simplifier](https://link.springer.com/chapter/10.1007/978-3-319-41754-7_32) (Ferrés et al., NLDB 2016)
 - [NLP–Based Readability Assessment of Health–Related Texts: a Case Study on Italian Informed Consent Forms](https://aclanthology.org/W15-2618) (Venturi et al., Louhi 2015)
 - [Making It Simplext: Implementation and Evaluation of a Text Simplification System for Spanish](https://dl.acm.org/doi/10.1145/2738046) (Saggion et al., ACM Trans. Access. Comput. 2015)
 - [Simplifying Lexical Simplification: Do We Need Simplified Corpora?](https://aclanthology.org/P15-2011) (Glavaš & Štajner, ACL-IJCNLP 2015)
@@ -55,4 +67,4 @@ design:
 - [Putting it Simply: a Context-Aware Approach to Lexical Simplification](https://aclanthology.org/P11-2087) (Biran et al., ACL 2011)
 - [Text Simplification in Simplext. Making Text More Accessible](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/1000) (Saggion et al., Proces. del Leng. Natural 2011)
 - [Simple English Wikipedia: A New Text Simplification Task](https://aclanthology.org/P11-2117) (Coster & Kauchak, ACL 2011)
-- [Towards Brazilian Portuguese Automatic Text Simplification Systems](https://dl.acm.org/doi/10.1145/1410140.1410191) (Aluísio et al., DocEng 2008)
+- [Towards Brazilian Portuguese Automatic Text Simplification Systems](https://dl.acm.org/doi/10.1145/1410140.1410191) (Aluísio et al., DocEng 2008) -->
