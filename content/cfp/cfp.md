@@ -62,11 +62,15 @@ The **special track** will focus on **Evaluation of Text Simplification and Read
 
 ### Submissions
 
-We welcome three types of papers: long papers, short papers and demos. The submission link will be made available shortly.
+We welcome three types of papers: long papers, short papers and demos. Submissions should be made to via [START](https://softconf.com/emnlp2024/TSAR2024/). 
+
+The papers should present novel research. The review will be double blind and thus all submissions should be anonymized. 
 
 **Long and Short Papers:** We adhere to the same [guidelines as EMNLP 2024](https://2024.emnlp.org/calls/main_conference_papers/#paper-submission-details).
 
 **Demo Papers:** Demos should be no more than two (2) pages, including references, and should describe implemented systems related to the topics of interest of the workshop. It also should include a link to a short screencast of the working software. In addition, authors of demo papers must be willing to present a demo of their system during TSAR 2024.
+
+Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 
 ### Program Committee
