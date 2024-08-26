@@ -72,7 +72,6 @@ The papers should present novel research. The review will be double blind and th
 
 Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
-
 ### Program Committee
 
 - Anna Dmitrieva (University of Helsinki); 
