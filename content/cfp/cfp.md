@@ -14,8 +14,8 @@ design:
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-- **Submission deadline:** 06 September 2024
-- **Notification of acceptance:** 20 September 2024
+- **Submission deadline:** <del>06 September 2024</del> <span style="color:red">(Extended) 09 Sep 2024</span> 
+- **Notification of acceptance:** <del>20 September 2024</del> <span style="color:red">(Extended) 25 Sep 2024</span> 
 - **Camera-ready papers due:** 04 October 2024
 - **Workshop:** 15 November 2024
 
@@ -70,7 +70,7 @@ The papers should present novel research. The review will be double blind and th
 
 **Demo Papers:** Demos should be no more than two (2) pages, including references, and should describe implemented systems related to the topics of interest of the workshop. It also should include a link to a short screencast of the working software. In addition, authors of demo papers must be willing to present a demo of their system during TSAR 2024.
 
-Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+All submissions must be made via the workshop START page (link above). Organisers will not be able to accept submissions made after the workshop deadline, or made via email. All information including the authors lists and affiliations should be finalised prior to submission and will not be modifiable after acceptance. Participants should mark their desired track at submission time (main or special track). The organisers will not be able to move papers between tracks after the end of the submission period. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 ### Program Committee
 
