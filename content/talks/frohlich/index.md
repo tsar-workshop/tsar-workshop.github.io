@@ -48,6 +48,6 @@ profile: false
 **Bio:**
 [Walburga Fröhlich](https://www.capito.eu/en/walburga-froehlich/) is the CEO and Co-Founder of [Capito](https://www.capito.eu/).
 
-capito is the leading provider of information in easy-to-understand language. Both analog and digital thanks to artificial intelligence. For over 24 years, experts at capito have been simplifying texts into easily understandable language levels. All simplifications are carried out based on the capito criteria catalog. 
+**capito** is the leading provider of information in easy-to-understand language. Both analog and digital thanks to artificial intelligence. For over 24 years, experts at capito have been simplifying texts into easily understandable language levels. All simplifications are carried out based on the capito criteria catalog. 
  
 With capito.ai, this long-standing expertise has been successfully digitalized. capito.ai is a tool that uses artificial intelligence to simplify texts. It analyses the comprehensibility of texts, makes suggestions for simplification, and simplifies texts fully automatically in 3 language levels.
