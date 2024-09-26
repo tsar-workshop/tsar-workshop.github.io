@@ -10,11 +10,13 @@ design:
   columns: "1"
 ---
 
-## Camera-ready papers due: 25 August 2023 (11:59PM UTC-12:00 - “anywhere on Earth”).
+## Camera-ready papers due: 04 October 2024 (11:59PM UTC-12:00 - “anywhere on Earth”).
 
 ### Formatting
 
-Please use the official [RANLP 2023 Templates](http://ranlp.org/ranlp2023/index.php/submissions/), which are available as an [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-ranlp-2023-proceedings/dwjrqsgfrrgm) template and also downloadable directly ([Latex](http://ranlp.org/ranlp2023/Templates/ranlp2023-LaTeX.zip) and [Word](http://ranlp.org/ranlp2023/Templates/ranlp2023-word.docx)). Authors should not modify these style files or use templates designed for other conferences.
+Please use the official [ACL style templates](https://github.com/acl-org/acl-style-files) (Latex and Word). 
+Please follow the paper formatting guidelines general to “*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). 
+Authors should not modify these style files or use templates designed for other conferences.
 
 ### Length
 
@@ -24,7 +26,7 @@ Appendices must appear right after the References.
 
 ### Extra Space for Lay Summary
 
-For this edition of TSAR we are requesting authors of accepted papers to include a **lay summary** of their paper in the camera-ready version.
+Similar to the last edition of TSAR, we are requesting authors of accepted papers to include a **lay summary** of their paper in the camera-ready version.
 This lay summary should not be more than 400 words. Some guidelines on how to write a lay summary can be found [here](https://elifesciences.org/inside-elife/85518309/plain-language-summaries-how-to-write-an-elife-digest). 
 Extra space is allowed after the 9th page (5th page for short papers) for a lay summary section.
 This section should be titled **Lay Summary** and appear at the end of the paper, after the discussion/conclusions section and before the references.

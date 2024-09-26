@@ -7,9 +7,9 @@ main:
   - name: Call for Papers
     url: cfp
     weight: 10
-  # - name: Camera Ready
-  #   url: camera-ready
-  #   weight: 20
+  - name: Camera Ready
+    url: camera-ready
+    weight: 20
   - name: Program
     url: program
     weight: 30
