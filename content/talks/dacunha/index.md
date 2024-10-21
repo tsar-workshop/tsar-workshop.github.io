@@ -1,7 +1,7 @@
 ---
-title: "Invited Talk Academia"
+title: "Artificial Intelligence and Plain Language"
 
-summary: "More details TBA."
+summary: "Natural Language Processing (NLP), a branch of artificial intelligence, has evolved significantly over recent decades. Broadly speaking, three main paradigms have been employed: rule-based systems, machine learning, and, more recently, language models. Simultaneously, the international \"plain language\" movement emerged, advocating for specialized texts addressed to the general public to be written in a simpler, more accessible manner. Over the past decade, a synergy has developed between these two fields—NLP and plain language— which has led to the creation of technological tools aimed at producing clearer texts. These tools follow the aforementioned NLP paradigms and can be classified, according to their function, into clarity testers, writing assistants, and clear text generators. This presentation will offer an overview of the available tools, outlining their functionalities as well as the advantages and disadvantages of each NLP paradigm. Particular attention will be given to tools developed for the Spanish language, with a specific focus on the [arText system](https://sistema-artext.com/), the first writing assistant for Spanish designed to help public administration staff draft texts in plain language addressed to citizens. This system has been developed with funding obtained through various competitive grants, in collaboration with different Spanish governments, and is available online free of charge."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -44,6 +44,12 @@ projects: []
 share: false  # Show social sharing links?
 profile: false 
 ---
+
+**Abstract:**
+
+Natural Language Processing (NLP), a branch of artificial intelligence, has evolved significantly over recent decades. Broadly speaking, three main paradigms have been employed: rule-based systems, machine learning, and, more recently, language models. Simultaneously, the international \"plain language\" movement emerged, advocating for specialized texts addressed to the general public to be written in a simpler, more accessible manner. Over the past decade, a synergy has developed between these two fields—NLP and plain language— which has led to the creation of technological tools aimed at producing clearer texts. These tools follow the aforementioned NLP paradigms and can be classified, according to their function, into clarity testers, writing assistants, and clear text generators. 
+
+This presentation will offer an overview of the available tools, outlining their functionalities as well as the advantages and disadvantages of each NLP paradigm. Particular attention will be given to tools developed for the Spanish language, with a specific focus on the [arText system](https://sistema-artext.com/), the first writing assistant for Spanish designed to help public administration staff draft texts in plain language addressed to citizens. This system has been developed with funding obtained through various competitive grants, in collaboration with different Spanish governments, and is available online free of charge.
 
 **Bio:**
 [Iria da Cunha](https://iriadacunha.com/) is a lecturer at the National Distance Education University (Spain). She holds a PhD in Applied Linguistics from the Universitat Pompeu Fabra. Her research lines are Plain Language, Natural Language Processing, Terminology, and Specialized Discourse. She is the director of the arText team.
