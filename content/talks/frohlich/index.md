@@ -1,7 +1,7 @@
 ---
-title: "Invited Talk Industry"
+title: "Easy-to-understand Writing with AI Assistance"
 
-summary: "More details TBA."
+summary: "Easy-to-understand language is not only needed by people with learning difficulties and disabilities. International studies show that many more people have difficulties understanding serious information from public authorities or companies. In this presentation we will introduce rules and criteria for easy-to-understand language and show some good examples from companies and public authorities. Since most people who are responsible for writing and providing information do not know how to write easy-to-understand texts, AI-based writing assistance can be very useful. In the talk, we will show how we can analyze and simplify complicated information very easily with an AI-based writing assistance."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -45,8 +45,17 @@ share: false  # Show social sharing links?
 profile: false 
 ---
 
+**Abstract:**
+Easy-to-understand language is not only needed by people with learning difficulties and disabilities. International studies show that many more people have difficulties understanding serious information from public authorities or companies.
+In this presentation we will introduce rules and criteria for easy-to-understand language and show some good examples from companies and public authorities.
+Since most people who are responsible for writing and providing information do not know how to write easy-to-understand texts, AI-based writing assistance can be very useful.
+In the talk, we will show how we can analyze and simplify complicated information very easily with an AI-based writing assistance.
+
+
 **Bio:**
-[Walburga Fröhlich](https://www.capito.eu/en/walburga-froehlich/) is the CEO and Co-Founder of [Capito](https://www.capito.eu/).
+[Walburga Fröhlich](https://www.capito.eu/en/walburga-froehlich/) is Co-Founder and CEO of [capito](https://www.capito.eu/). For 30 years, she has been concerned with the question of how the potential of disabled people can be made visible and developed in our society and what accessible communication does for our society. Together with her team, she has developed AI-based digital tools for easier comprehensible information. 
+Walburga was born in 1966 in Austria, she studied first social work and has in addition a Masters degree in Social Management. She has already received many awards for her work, including the European Woman Innovator Prize or the European Innovation Council “Seal for Excellence”.   
+
 
 **capito** is the leading provider of information in easy-to-understand language. Both analog and digital thanks to artificial intelligence. For over 24 years, experts at capito have been simplifying texts into easily understandable language levels. All simplifications are carried out based on the capito criteria catalog. 
  
