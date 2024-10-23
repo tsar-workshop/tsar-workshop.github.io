@@ -3,40 +3,41 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: Schedule
+title: Schedule (Draft)
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: "1"
 ---
 
-TBD
-
-<!-- ### Thursday, 7 September 2023 (Hall Varna, [Cherno More hotel](https://www.chernomorebg.com/en/conference-centre.html))
+### Friday, 15 November 2024 ([Hyatt Regency Miami](https://www.hyatt.com/hyatt-regency/en-US/miarm-hyatt-regency-miami))
 
 
- | Time<br>(EEST, BST+2, CEST+1) | Activity |
+ | Time<br> | Activity |
 | :---: | :----------- |
-| 09:30 - 10:00 | **Opening Remarks** -- *Presented by: Matthew Shardlow*|
-| 10:00 - 11:00 | **Invited Talk:** [Improving Text and Web Accessibility for Adults with Autism: Insights from Eye-Tracking Experiments](../talks/) (Victoria Yaneva) |
-| 11:00 - 11:30 | Coffee Break |
-| 11:30 - 13:00 | **Oral Session 1** -- *Session Chair: Rémi Cardon* |
-|  | [Automatic Text Simplification for People with Cognitive Disabilities: Resource Creation within the ClearText Project](papers/espinosa-zaragoza-etal-2023-automatic.pdf) <br>*Isabel Espinosa-Zaragoza, José Abreu-Salas, Paloma Moreda and Manuel Palomar* |
-|  | [Cross-lingual Mediation: Readability Effects](papers/kunilovskaya-etal-2023-cross.pdf) <br>*Maria Kunilovskaya, Ruslan Mitkov and Eveline Wandl-Vogt* |
-|  | [Context-aware Swedish Lexical Simplification](papers/graichen-jonsson-2023-context.pdf) <br>*Emil Graichen and Arne Jonsson* |
-|  | [Using ChatGPT as a CAT tool in Easy Language translation](papers/deilen-etal-2023-using.pdf)<br>*Silvana Deilen, Sergio Hernández Garrido, Ekaterina Lapshinova-Koltunski and Christiane Maaß* |
-| 13:00 - 14:30 | Lunch Break |
-| 14:30 - 15:15 | **Oral Session 2** -- *Session Chair: Isabel Espinosa-Zaragoza* |
-|  | [Document-level Text Simplification with Coherence Evaluation](papers/vasquez-rodriguez-etal-2023-document.pdf) <br>*Laura Vásquez-Rodríguez, Matthew Shardlow, Piotr Przybyła and Sophia Ananiadou* |
-|  | [On Operations in Automatic Text Simplification](papers/cardon-bibal-2023-operations.pdf) <br>*Rémi Cardon and Adrien Bibal* |
-| 15:15 - 16:15 | **Poster Session** -- *Session Chair: Matthew Shardlow* |
-|  | [Simplification by Lexical Deletion](papers/shardlow-przybyla-2023-simplification.pdf) [[poster](posters/shardlow-przybyla-2023-simplification.pdf)] <br>*Matthew Shardlow and Piotr Przybyła* |
-|  | [LSLlama: Fine-Tuned LLaMA for Lexical Simplification](papers/baez-saggion-2023-lsllama.pdf) [[poster](posters/baez-saggion-2023-lsllama.pdf)] <br>*Anthony Baez and Horacio Saggion* |
-|  | [An automated tool with human supervision to adapt difficult texts into Plain Language](papers/poupet-etal-2023-automated.pdf) <br>*Paul Poupet, Morgane Hauguel, Erwan Boehm and Charlotte Roze* |
-|  | [TextSimplifier: A Modular, Extensible, and Context Sensitive Simplification Framework for Improved Natural Language Understanding](papers/seneviratne-etal-2023-textsimplifier.pdf) [[poster](posters/seneviratne-etal-2023-textsimplifier.pdf)] <br>*Sandaru Seneviratne, Eleni Daskalaki and Hanna Suominen* |
-|  | [Towards Sentence-level Text Readability Assessment for French](papers/ngo-parmentier-2023-towards.pdf) [[poster](posters/ngo-parmentier-2023-towards.pdf)] <br>*Duy Van Ngo and Yannick Parmentier* |
-|  | [LC-Score: Reference-less estimation of Text Comprehension Difficulty](papers/tardy-etal-2023-lc.pdf) <br>*Paul Tardy, Charlotte Roze and Paul Poupet* |
-|  | [Beyond Vocabulary: Capturing Readability from Children's Difficulty](papers/ahmed-2023-beyond.pdf) [[poster](posters/ahmed-2023-beyond.pdf)]<br>*Arif Ahmed* |
-|  | [Comparing Generic and Expert Models for Genre-Specific Text Simplification](papers/li-etal-2023-comparing.pdf) [[poster](posters/li-etal-2023-comparing.pdf)] <br>*Zihao LI, Matthew Shardlow and Fernando Alva-Manchego* |
-| 16:15 - 16:45 | Coffee Break |
-| 16:45 - 17:30 | **Open Discussion Session + Closing** -- *Session Chairs:  Laura Vásquez-Rodríguez and Matthew Shardlow* | -->
+| 09:30 - 09:40 | **Welcome** -- *Presented by: Matthew Shardlow*|
+| 09:40 - 10:30 | **Invited Talk 1:** [Easy-to-understand Writing with AI Assistance](../talks/frohlich) (Walburga Frohlick) |
+| 10:30 - 11:00 | Coffee Break |
+| 11:00 - 12:00 | **Oral Session 1: Main Track** -- *Session Chair: TBD* |
+|  | [Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication]() <br>*Miriam Anschütz, Tringa Sylaj and Georg Groh* |
+|  | [MultiLS: An End-to-End Lexical Simplification Framework]() <br>*Kai North, Tharindu Ranasinghe, Matthew Shardlow and Marcos Zampieri* |
+|  | [Cochrane-auto: An Aligned Dataset for the Simplification of Biomedical Abstracts]() <br>*Jan Bakker and Jaap Kamps* |
+| 12:00 - 13:00 | Lunch Break |
+| 13:00 - 13:10 | Poster Micro-pitches |
+| 13:10 - 14:40 | **Poster Session** -- *Session Chair: TBD* |
+|  | [CompLex-ZH: A New Dataset for Lexical Complexity Prediction in Mandarin and Cantonese]() [[poster]()] <br>*Le Qiu, Shanyue Guo, Tak-sum Wong, Emmanuele Chersoni, John Sie Yuen Lee and Chu-Ren Huang* |
+|  | [Society of Medical Simplifiers]() [[poster]()] <br>*Chen Lyu and Gabriele Pergola* |
+|  | [Considering Human Interaction and Variability in Automatic Text Simplification]() [[poster]()] <br>*Jenia Kim, Stefan Leijnen and Lisa Beinborn* |
+|  | [OtoBERT: Simplifying Suffixed Verbal Forms in Modern Hebrew Literature]() [[poster]()] <br>*Avi Shmidman and Shaltiel Shmidman* |
+|  | [Difficult for Whom? A study of Japanese Lexical Complexity]() [[poster]()] <br>*Adam Nohejl, Akio Hayakawa, Yusuke Ide and Taro Watanabe* |
+|  | [EASSE-DE & EASSE-multi: Easier Automatic Sentence Simplification Evaluation for German & Multiple Languages]() [[poster]()] <br>*Regina Stodden* |
+|  | [Evaluating the Simplification of Brazilian Legal Rulings in LLMs Using Readability Scores as a Target]() [[poster]()] <br>*Antonio Flavio Castro Paula and Celso G. Camilo-Junior* |
+|  | [Measuring and Modifying the Readability of English Texts with GPT-4]() [[poster]()] <br>*Sean Trott and Pamela Rivière* |
+|  | [Findings Papers]() |
+| 14:40 - 15:30 | **Invited Talk 2:** [Artificial Intelligence and Plain Language](../talks/dacunha) (Iria da Cunha) |
+| 15:30 - 16:00 | Coffee Break |
+| 16:00 - 16:45 | **Oral Session 2: Special Track** -- *Session Chair: TBD* |
+|  | [Lexical Complexity Prediction and Lexical Simplification for Catalan and Spanish]() <br>*Horacio Saggion, Stefan Bott, Sandra Szasz, Nelson Pérez, Saúl Calderón and Martín Solís* |
+|  | [SciGisPy: a Novel Metric for Biomedical Text Simplification via Gist Inference Score]() <br>*Chen Lyu and Gabriele Pergola* |
+| 16:45 - 17:30 | **Round Table** -- *Session Chair:  TBD* |
+| 17:30 - 17:35 | **Closing** |
