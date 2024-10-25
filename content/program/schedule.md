@@ -33,7 +33,7 @@ design:
 |  | [EASSE-DE & EASSE-multi: Easier Automatic Sentence Simplification Evaluation for German & Multiple Languages](https://arxiv.org/abs/2404.03563) <br>*Regina Stodden* |
 |  | Evaluating the Simplification of Brazilian Legal Rulings in LLMs Using Readability Scores as a Target <br>*Antonio Flavio Castro Paula and Celso G. Camilo-Junior* |
 |  | [Measuring and Modifying the Readability of English Texts with GPT-4](https://arxiv.org/abs/2410.14028) [[poster](./posters/trott-riviere-2024-measuring.pdf)] <br>*Sean Trott and Pamela Rivière* |
-|  | [Findings Papers]() |
+|  | Findings Papers |
 | 14:40 - 15:30 | **Invited Talk 2:** [Artificial Intelligence and Plain Language](../talks/dacunha) (Iria da Cunha) |
 | 15:30 - 16:00 | Coffee Break |
 | 16:00 - 16:45 | **Oral Session 2: Special Track** -- *Session Chair: TBD* |
