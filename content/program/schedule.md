@@ -25,7 +25,7 @@ design:
 | 12:00 - 13:00 | Lunch Break |
 | 13:00 - 13:10 | Poster Micro-pitches |
 | 13:10 - 14:40 | **Poster Session** -- *Session Chair: TBD* |
-|  | CompLex-ZH: A New Dataset for Lexical Complexity Prediction in Mandarin and Cantonese <br>*Le Qiu, Shanyue Guo, Tak-sum Wong, Emmanuele Chersoni, John Sie Yuen Lee and Chu-Ren Huang* |
+|  | CompLex-ZH: A New Dataset for Lexical Complexity Prediction in Mandarin and Cantonese [[poster](./posters/qiu-etal-2024-complex.pdf)] <br>*Le Qiu, Shanyue Guo, Tak-sum Wong, Emmanuele Chersoni, John Sie Yuen Lee and Chu-Ren Huang* |
 |  | [Society of Medical Simplifiers](https://arxiv.org/abs/2410.09631) <br>*Chen Lyu and Gabriele Pergola* |
 |  | Considering Human Interaction and Variability in Automatic Text Simplification [[poster](./posters/kim-etal-2024-considering.pdf)] <br>*Jenia Kim, Stefan Leijnen and Lisa Beinborn* |
 |  | OtoBERT: Simplifying Suffixed Verbal Forms in Modern Hebrew Literature <br>*Avi Shmidman and Shaltiel Shmidman* |
