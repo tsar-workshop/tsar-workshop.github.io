@@ -31,7 +31,7 @@ design:
 |  | OtoBERT: Simplifying Suffixed Verbal Forms in Modern Hebrew Literature <br>*Avi Shmidman and Shaltiel Shmidman* |
 |  | [Difficult for Whom? A study of Japanese Lexical Complexity](https://arxiv.org/abs/2410.18567) <br>*Adam Nohejl, Akio Hayakawa, Yusuke Ide and Taro Watanabe* |
 |  | [EASSE-DE & EASSE-multi: Easier Automatic Sentence Simplification Evaluation for German & Multiple Languages](https://arxiv.org/abs/2404.03563) <br>*Regina Stodden* |
-|  | Evaluating the Simplification of Brazilian Legal Rulings in LLMs Using Readability Scores as a Target <br>*Antonio Flavio Castro Paula and Celso G. Camilo-Junior* |
+|  | Evaluating the Simplification of Brazilian Legal Rulings in LLMs Using Readability Scores as a Target [[poster](./posters/poster_tsar2024_antonio.pdf)] <br>*Antonio Flavio Castro Paula and Celso G. Camilo-Junior* |
 |  | [Measuring and Modifying the Readability of English Texts with GPT-4](https://arxiv.org/abs/2410.14028) [[poster](./posters/trott-riviere-2024-measuring.pdf)] <br>*Sean Trott and Pamela Rivière* |
 |  | [SpeciaLex: A Benchmark for In-Context Specialized Lexicon Learning](https://arxiv.org/abs/2407.13297) (Findings) <br>*Joseph Marvin Imperial and Harish Tayyar Madabushi* |
 |  | [README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP](https://arxiv.org/abs/2312.15561) (Findings) <br>*Zonghai Yao, Nandyala Siddharth Kantu, Guanghao Wei, Hieu Tran, Zhangqi Duan, Sunjae Kwon, Zhichao Yang, README annotation team, and Hong Yu* |
