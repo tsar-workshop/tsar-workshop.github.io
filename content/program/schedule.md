@@ -16,7 +16,7 @@ design:
  | Time<br> | Activity |
 | :---: | :----------- |
 | 09:00 - 09:20 | **Welcome** -- *Presented by: Matthew Shardlow*|
-| 09:20 - 10:00 | **Invited Talk 1:** [Easy-to-understand Writing with AI Assistance](../talks/frohlich) (Walburga Frohlick) -- *Session Chair: Matthew Shardlow* |
+| 09:20 - 10:00 | **Invited Talk 1:** [Easy-to-understand Writing with AI Assistance](../talks/frohlich) (Walburga Fröhlich) -- *Session Chair: Matthew Shardlow* |
 | 10:00 - 10:30 | Poster Micro-pitches -- *Session Chair: Matthew Shardlow* |
 | 10:30 - 11:00 | Coffee Break |
 | 11:00 - 12:00 | **Oral Session 1: Main Track** -- *Session Chair: Fernando Alva-Manchego* |
@@ -30,7 +30,7 @@ design:
 |  | Considering Human Interaction and Variability in Automatic Text Simplification [[poster](./posters/kim-etal-2024-considering.pdf)] <br>*Jenia Kim, Stefan Leijnen and Lisa Beinborn* |
 |  | OtoBERT: Simplifying Suffixed Verbal Forms in Modern Hebrew Literature <br>*Avi Shmidman and Shaltiel Shmidman* |
 |  | [Difficult for Whom? A study of Japanese Lexical Complexity](https://arxiv.org/abs/2410.18567) <br>*Adam Nohejl, Akio Hayakawa, Yusuke Ide and Taro Watanabe* |
-|  | [EASSE-DE & EASSE-multi: Easier Automatic Sentence Simplification Evaluation for German & Multiple Languages](https://arxiv.org/abs/2404.03563) <br>*Regina Stodden* |
+|  | [EASSE-DE & EASSE-multi: Easier Automatic Sentence Simplification Evaluation for German & Multiple Languages](https://arxiv.org/abs/2404.03563) [[poster](./posters/poster-stodden-2024-easse-de.pdf)] <br>*Regina Stodden* |
 |  | Evaluating the Simplification of Brazilian Legal Rulings in LLMs Using Readability Scores as a Target [[poster](./posters/poster_tsar2024_antonio.pdf)] <br>*Antonio Flavio Castro Paula and Celso G. Camilo-Junior* |
 |  | [Measuring and Modifying the Readability of English Texts with GPT-4](https://arxiv.org/abs/2410.14028) [[poster](./posters/trott-riviere-2024-measuring.pdf)] <br>*Sean Trott and Pamela Rivière* |
 |  | [SpeciaLex: A Benchmark for In-Context Specialized Lexicon Learning](https://arxiv.org/abs/2407.13297) (Findings) <br>*Joseph Marvin Imperial and Harish Tayyar Madabushi* |
