@@ -29,7 +29,7 @@ design:
 |  | [MultiLS: An End-to-End Lexical Simplification Framework](https://aclanthology.org/2024.tsar-1.1/) <br>*Kai North, Tharindu Ranasinghe, Matthew Shardlow and Marcos Zampieri* |
 |  | [Considering Human Interaction and Variability in Automatic Text Simplification](https://aclanthology.org/2024.tsar-1.6/) [[poster](./posters/kim-etal-2024-considering.pdf)] <br>*Jenia Kim, Stefan Leijnen and Lisa Beinborn* |
 |  | [OtoBERT: Simplifying Suffixed Verbal Forms in Modern Hebrew Literature](https://aclanthology.org/2024.tsar-1.2/) <br>*Avi Shmidman and Shaltiel Shmidman* |
-|  | [Difficult for Whom? A study of Japanese Lexical Complexity](hhttps://aclanthology.org/2024.tsar-1.8/) <br>*Adam Nohejl, Akio Hayakawa, Yusuke Ide and Taro Watanabe* |
+|  | [Difficult for Whom? A study of Japanese Lexical Complexity](https://aclanthology.org/2024.tsar-1.8/) <br>*Adam Nohejl, Akio Hayakawa, Yusuke Ide and Taro Watanabe* |
 |  | [EASSE-DE & EASSE-multi: Easier Automatic Sentence Simplification Evaluation for German & Multiple Languages](https://aclanthology.org/2024.tsar-1.11/) [[poster](./posters/poster-stodden-2024-easse-de.pdf)] <br>*Regina Stodden* |
 |  | [Evaluating the Simplification of Brazilian Legal Rulings in LLMs Using Readability Scores as a Target](https://aclanthology.org/2024.tsar-1.12/) [[poster](./posters/poster_tsar2024_antonio.pdf)] <br>*Antonio Flavio Castro Paula and Celso G. Camilo-Junior* |
 |  | [Measuring and Modifying the Readability of English Texts with GPT-4](https://aclanthology.org/2024.tsar-1.13/) [[poster](./posters/trott-riviere-2024-measuring.pdf)] <br>*Sean Trott and Pamela Rivière* |
