@@ -2,13 +2,13 @@
 # Display name
 title: Regina Stodden
 
-weight: 70
+weight: 40
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student at Heinrich Heine University Düsseldorf, Germany
+role: Postdoctoral Researcher at University of Bielefeld, Germany
 
 
 # Organizations/Affiliations

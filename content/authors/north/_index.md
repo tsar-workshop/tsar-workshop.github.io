@@ -2,13 +2,13 @@
 # Display name
 title: Kai North
 
-weight: 50
+weight: 30
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant at George Mason University, USA
+role: Senior Data Scientist at Cambium Assessment, USA
 
 
 # Organizations/Affiliations
@@ -51,6 +51,9 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=fUSUaFUAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kai-n/
 # - icon: semantic-scholar
 #   icon_pack: ai
 #   link: https://www.semanticscholar.org/author/

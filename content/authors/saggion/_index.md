@@ -2,7 +2,7 @@
 # Display name
 title: Horacio Saggion
 
-weight: 20
+weight: 50
 
 # Is this the primary user of the site?
 superuser: true
