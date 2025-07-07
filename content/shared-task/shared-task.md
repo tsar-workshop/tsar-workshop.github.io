@@ -36,7 +36,7 @@ All dates are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 ### Data
 
-This is a **fully open** task in terms of system development. Participants are free to use any data or resources. **No training data will be provided.**
+This is a **fully open** task in terms of system development. Participants are free to use any publicly-available data or resources. **No training data will be provided.**
 
 #### Trial Data
 
@@ -96,7 +96,7 @@ Participants are invited to submit a system description paper to the TSAR 2025 W
 - Fernando Alva-Manchego (Cardiff University, UK)  
 - Regina Stodden (University of Bielefeld, Germany)  
 - Kai North (Cambium Assessment, USA)  
-- Joseph Marvin Imperial (University of Bath, UK)  
+- Joseph Marvin Imperial (National University Philippines and University of Bath, UK)  
 - Abdullah Barayan (Cardiff University, UK)  
 - Harish Tayyar Madabushi (University of Bath, UK)
 
@@ -104,3 +104,10 @@ Participants are invited to submit a system description paper to the TSAR 2025 W
 
 For questions, please contact us at: **tsarworkshop@googlegroups.com** adding **[Shared Task]** to the email subject.
 
+### Useful Resources
+
+- [UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment](https://universalcefr.github.io/)
+- [Analysing Zero-Shot Readability-Controlled Sentence Simplification](https://aclanthology.org/2025.coling-main.452/)
+- [Controlling Pre-trained Language Models for Grade-Specific Text Simplification](https://aclanthology.org/2023.emnlp-main.790/)
+- [Flesch or Fumble? Evaluating Readability Standard Alignment of Instruction-Tuned Language Models](https://aclanthology.org/2023.gem-1.18/)
+- [Is It Possible to Modify Text to a Target Readability Level? An Initial Investigation Using Zero-Shot Large Language Models](https://aclanthology.org/2024.lrec-main.815/)
