@@ -73,7 +73,7 @@ The official evaluation scripts will be released together with the trial data.
 
 All participants must register in advance using the following form:
 
-👉 [**Registration Form** (link coming soon)]
+👉 [[Registration Form](https://forms.gle/p9rg7FjxaNFWcPVS7)]
 
 Registered participants will receive announcements, updates, and submission instructions.
 
@@ -102,12 +102,13 @@ Participants are invited to submit a system description paper to the TSAR 2025 W
 
 ### Contact
 
-For questions, please contact us at: **tsarworkshop@googlegroups.com** adding **[Shared Task]** to the email subject.
+For questions, please contact us at: tsarworkshop@googlegroups.com adding **[Shared Task]** to the email subject.
 
 ### Useful Resources
 
-- [UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment](https://universalcefr.github.io/)
-- [Analysing Zero-Shot Readability-Controlled Sentence Simplification](https://aclanthology.org/2025.coling-main.452/)
-- [Controlling Pre-trained Language Models for Grade-Specific Text Simplification](https://aclanthology.org/2023.emnlp-main.790/)
-- [Flesch or Fumble? Evaluating Readability Standard Alignment of Instruction-Tuned Language Models](https://aclanthology.org/2023.gem-1.18/)
-- [Is It Possible to Modify Text to a Target Readability Level? An Initial Investigation Using Zero-Shot Large Language Models](https://aclanthology.org/2024.lrec-main.815/)
+- [UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment](https://universalcefr.github.io/) (Imperial et al., 2025)
+- [Analysing Zero-Shot Readability-Controlled Sentence Simplification](https://aclanthology.org/2025.coling-main.452/) (Barayan et al., COLING 2025)
+- [Is It Possible to Modify Text to a Target Readability Level? An Initial Investigation Using Zero-Shot Large Language Models](https://aclanthology.org/2024.lrec-main.815/) (Farajidizaji et al., LREC-COLING 2024)
+- [Controlling Pre-trained Language Models for Grade-Specific Text Simplification](https://aclanthology.org/2023.emnlp-main.790/) (Agrawal & Carpuat, EMNLP 2023)
+- [Flesch or Fumble? Evaluating Readability Standard Alignment of Instruction-Tuned Language Models](https://aclanthology.org/2023.gem-1.18/) (Imperial & Tayyar Madabushi, GEM 2023)
+- [Learning to Paraphrase Sentences to Different Complexity Levels](https://aclanthology.org/2023.tacl-1.76/) (Chi et al., TACL 2023)
