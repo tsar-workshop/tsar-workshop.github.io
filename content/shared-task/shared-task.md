@@ -14,6 +14,7 @@ We invite participation in the TSAR 2025 Shared Task on Readability-Controlled T
 
 ### Announcements
 
+- 20 July 2025: Trial data and evaluation scripts have been sent to registered participants. If you have not recieved them, please contact the organisers.
 - 17 July 2025: Trial data and evaluation scripts will now be released on July 18th.
 - 07 July 2025: Shared task announced
 
