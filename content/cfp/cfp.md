@@ -19,7 +19,7 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 - **Submission deadline:** 26 August 2025
 - **Notification of acceptance:** 30 September 2025
 - **Camera-ready papers due:** 7 October 2025 (TBC)
-- **Workshop:** 5-9 November 2025
+- **Workshop:** 8 November 2025
 
 The organisers are pleased to present the fourth instalment of the annual workshop on Text Simplification, Accessibility and Readability (TSAR 2025),  colocated with EMNLP 2025 in Suzhou, China. TSAR aims to provide a cohesive environment to draw members of the computational linguistics, natural language processing and artificial intelligence communities working on the use of automated techniques to make language accessible for all. Previous editions of the workshop have been held at EMNLP (2022, 2024) and RANLP (2023) with significant engagement and participation driving research and building community in the fields of Text Simplification, Accessibility and Readability.
 
@@ -56,13 +56,17 @@ The TSAR 2025 workshop will invite contributions on the following topics, aligne
 
 ### Submissions
 
-We welcome three types of papers: long papers, short papers and demos.
+We welcome three types of papers: long papers, short papers and demos. Submissions should be made to via [EasyChair](https://easychair.org/my/conference?conf=tsar2025emnlp2025). 
 
 The papers should present novel research. The review will be double blind and thus all submissions should be anonymized.
 
 **Long and Short Papers:** We adhere to the same [guidelines as EMNLP 2025](https://2025.emnlp.org/calls/main_conference_papers/#paper-submission-details).
 
 **Demo Papers:** Demos should be six pages in length, including references, and should describe implemented systems related to the topics of interest of the workshop. It also should include a link to a short screencast of the working software. In addition, authors of demo papers must be willing to present a demo of their system during TSAR 2025. Further guidance on the preparation of demo papers is available through the [main conference website](https://2025.emnlp.org/calls/demos/#submission-guidelines).
+
+All submissions must be made via the workshop EasyChair page (link above). Organisers will not be able to accept submissions made after the workshop deadline, or made via email. All information including the authors lists and affiliations should be finalised prior to submission and will not be modifiable after acceptance.
+
+Please use the official [ACL style templates](https://github.com/acl-org/acl-style-files). Please follow the [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html) general to *ACL conferences. Authors should not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 ### Program Committee
 
