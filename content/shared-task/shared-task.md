@@ -14,6 +14,7 @@ We invite participation in the TSAR 2025 Shared Task on Readability-Controlled T
 
 ### Announcements
 
+- 15 August 2025: Test data will now be released on August 22nd.
 - 20 July 2025: Trial data and evaluation scripts have been sent to registered participants. If you have not recieved them, please contact the organisers.
 - 17 July 2025: Trial data and evaluation scripts will now be released on July 18th.
 - 07 July 2025: Shared task announced
@@ -28,8 +29,8 @@ Participants are expected to adjust linguistic complexity while preserving the c
 
 All dates are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-- <del>16 July 2025</del> <span style="color:red">(NEW) 18 July 2025</span> – Trial data and evaluation scripts released  
-- **15 August 2025** – Test data released  
+- <del>16 July 2025</del> <span style="color:red">(NEW) 18 July 2025</span> – Trial data and evaluation scripts released
+- <del>15 August 2025</del> <span style="color:red">(NEW) 22 August 2025</span> – Test data released
 - **26 August 2025** – System outputs due  
 - **2 September 2025** – Evaluation results published  
 - **23 September 2025** – System description papers due  
