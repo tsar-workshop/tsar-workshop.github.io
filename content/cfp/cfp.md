@@ -16,9 +16,9 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 <!-- - **Submission deadline:** <del>06 September 2024</del> <span style="color:red">(Extended) 09 Sep 2024</span> 
 - **Notification of acceptance:** <del>20 September 2024</del> <span style="color:red">(Extended) 25 Sep 2024</span>  -->
-- **Submission deadline:** 26 August 2025
+- **Submission deadline:** <del>26 August 2025</del> <span style="color:red">(Extended) 02 September 2025</span> 
 - **Notification of acceptance:** 30 September 2025
-- **Camera-ready papers due:** 7 October 2025 (TBC)
+- **Camera-ready papers due:** 7 October 2025
 - **Workshop:** 8 November 2025
 
 The organisers are pleased to present the fourth instalment of the annual workshop on Text Simplification, Accessibility and Readability (TSAR 2025),  colocated with EMNLP 2025 in Suzhou, China. TSAR aims to provide a cohesive environment to draw members of the computational linguistics, natural language processing and artificial intelligence communities working on the use of automated techniques to make language accessible for all. Previous editions of the workshop have been held at EMNLP (2022, 2024) and RANLP (2023) with significant engagement and participation driving research and building community in the fields of Text Simplification, Accessibility and Readability.

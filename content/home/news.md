@@ -17,6 +17,7 @@ design:
 - **05 September 2024:** Submission **Deadline Extended!** You now have until **September 09 (AoE)** to send your paper. 
 - **26 August 2024:** Submissions can now be made via [START](https://softconf.com/emnlp2024/TSAR2024/).
 - **09 July 2024:** You can now request an [Invitation Letter](https://2024.emnlp.org/participants/#invitation-letters) to apply for a visa to attend the workshop. -->
+- **27 August 2025:** Submission **Deadline Extended!** You now have until **September 02 (AoE)** to [send your paper](https://easychair.org/my/conference?conf=tsar2025emnlp2025).
 - **20 July 2025:** Trial data and evaluation script for the [Shared Task](../shared-task/) have been sent to registered participants.
 - **07 July 2025:** We are organising a [Shared Task](../shared-task/) on Readability-Controlled Text Simplification.
 - **15 June 2025:** [Call for Papers](../cfp/) is out! Submit your papers by **September 2025**.
