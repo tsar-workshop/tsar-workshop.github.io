@@ -99,7 +99,7 @@ Please use the official [ACL style templates](https://github.com/acl-org/acl-sty
 - Philippe Laban (Salesforce Research);
 - Piotr Przybyła (Universitat Pompeu Fabra);
 - Regina Stodden (Heinrich Heine University Düsseldorf);
-- Rémi Cardon (CENTAL, ILC, Université Catholique de Louvain);
+- Rémi Cardon (HULAT - UC3M);
 - Sarah Ebling (University of Zurich);
 - Silvana Deilen (University of Hildesheim);
 - Sowmya Vajjala (National Research Council Canada);
