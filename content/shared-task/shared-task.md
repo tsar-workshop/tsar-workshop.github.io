@@ -14,7 +14,9 @@ We invite participation in the TSAR 2025 Shared Task on Readability-Controlled T
 
 ### Announcements
 
-- 24 August 2025: Test data has been sent to registered participants.
+- 19 September 2025: [Submission link](https://easychair.org/my/conference?conf=tsar2025sharedtask) for system description papers is live.
+- 05 September 2025: Results and ranking sent to participants.
+- 24 August 2025: Test data sent to registered participants.
 - 15 August 2025: Test data will now be released on August 22nd.
 - 20 July 2025: Trial data and evaluation scripts have been sent to registered participants. If you have not recieved them, please contact the organisers.
 - 17 July 2025: Trial data and evaluation scripts will now be released on July 18th.
