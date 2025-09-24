@@ -89,6 +89,7 @@ Please use the official [ACL style templates](https://github.com/acl-org/acl-sty
 - Joseph Imperial (University of Bath);
 - Laura Vásquez-Rodriguez (Idiap Research Institute);
 - Liam Cripwell (LORIA);
+- Lourdes Moreno (HULAT - UC3M);
 - Maja Popović (ADAPT, Dublin City University);
 - Margot Madina (Darmstadt University of Applied Sciences);
 - Michael Gille (Hamburg University of Applied Science);
