@@ -100,7 +100,7 @@ Participants are invited to submit a system description paper to the TSAR 2025 W
 ### Organizers
 
 - Fernando Alva-Manchego (Cardiff University, UK)  
-- Regina Stodden (University of Bielefeld, Germany)  
+- Regina Stodden (University of Bielefeld, Germany - [LLM4KMU Project](https://llm4kmu.de/))  
 - Kai North (Cambium Assessment, USA)  
 - Joseph Marvin Imperial (National University Philippines and University of Bath, UK)  
 - Abdullah Barayan (Cardiff University, UK)  

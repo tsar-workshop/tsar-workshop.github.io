@@ -8,7 +8,7 @@ weight: 40
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher at University of Bielefeld, Germany
+role: Postdoctoral Researcher at University of Bielefeld in the [LLM4KMU Project](https://llm4kmu.de/), Germany
 
 
 # Organizations/Affiliations
