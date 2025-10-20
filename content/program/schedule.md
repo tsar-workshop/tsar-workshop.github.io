@@ -10,36 +10,37 @@ design:
   columns: "1"
 ---
 
-### Friday, 15 November 2024 ([Hyatt Regency Miami](https://www.hyatt.com/hyatt-regency/en-US/miarm-hyatt-regency-miami))
+### Saturday, 08 November 2025 ([Suzhou International Expo Centre - SuzhouExpo](https://en.suzhouexpo.com/zhanguansheshiEn-335.html))
 
-
- | Time<br> | Activity |
-| :---: | :----------- |
-| 09:00 - 09:20 | **Welcome** -- *Presented by: Matthew Shardlow*|
-| 09:20 - 10:00 | **Invited Talk 1:** [Easy-to-understand Writing with AI Assistance](../talks/frohlich) (Walburga Fröhlich) -- *Session Chair: Matthew Shardlow* |
-| 10:00 - 10:30 | Poster Micro-pitches -- *Session Chair: Matthew Shardlow* |
-| 10:30 - 11:00 | Coffee Break |
-| 11:00 - 12:00 | **Oral Session 1: Main Track** -- *Session Chair: Fernando Alva-Manchego* |
-|  | [Cochrane-auto: An Aligned Dataset for the Simplification of Biomedical Abstracts](https://aclanthology.org/2024.tsar-1.5/) <br>*Jan Bakker and Jaap Kamps* |
-|  | [Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication](https://aclanthology.org/2024.tsar-1.4/) <br>*Miriam Anschütz, Tringa Sylaj and Georg Groh* |
-|  | [Society of Medical Simplifiers](https://aclanthology.org/2024.tsar-1.7/) <br>*Chen Lyu and Gabriele Pergola* |
-| 12:00 - 13:00 | Lunch Break |
-| 13:00 - 14:40 | **Poster Session** -- *Session Chair: Matthew Shardlow (in-person), Kai North (virtual), Regina Stodden (virtual)* |
-|  | [CompLex-ZH: A New Dataset for Lexical Complexity Prediction in Mandarin and Cantonese](https://aclanthology.org/2024.tsar-1.3/) [[poster](./posters/qiu-etal-2024-complex.pdf)] <br>*Le Qiu, Shanyue Guo, Tak-sum Wong, Emmanuele Chersoni, John Sie Yuen Lee and Chu-Ren Huang* |
-|  | [MultiLS: An End-to-End Lexical Simplification Framework](https://aclanthology.org/2024.tsar-1.1/) <br>*Kai North, Tharindu Ranasinghe, Matthew Shardlow and Marcos Zampieri* |
-|  | [Considering Human Interaction and Variability in Automatic Text Simplification](https://aclanthology.org/2024.tsar-1.6/) [[poster](./posters/kim-etal-2024-considering.pdf)] <br>*Jenia Kim, Stefan Leijnen and Lisa Beinborn* |
-|  | [OtoBERT: Identifying Suffixed Verbal Forms in Modern Hebrew Literature](https://aclanthology.org/2024.tsar-1.2/) [[poster](./posters/OtoBERTPoster_A0.pdf)]<br>*Avi Shmidman and Shaltiel Shmidman* |
-|  | [Difficult for Whom? A study of Japanese Lexical Complexity](https://aclanthology.org/2024.tsar-1.8/) <br>*Adam Nohejl, Akio Hayakawa, Yusuke Ide and Taro Watanabe* |
-|  | [EASSE-DE & EASSE-multi: Easier Automatic Sentence Simplification Evaluation for German & Multiple Languages](https://aclanthology.org/2024.tsar-1.11/) [[poster](./posters/poster-stodden-2024-easse-de.pdf)] <br>*Regina Stodden* |
-|  | [Evaluating the Simplification of Brazilian Legal Rulings in LLMs Using Readability Scores as a Target](https://aclanthology.org/2024.tsar-1.12/) [[poster](./posters/poster_tsar2024_antonio.pdf)] <br>*Antonio Flavio Castro Paula and Celso G. Camilo-Junior* |
-|  | [Measuring and Modifying the Readability of English Texts with GPT-4](https://aclanthology.org/2024.tsar-1.13/) [[poster](./posters/trott-riviere-2024-measuring.pdf)] <br>*Sean Trott and Pamela Rivière* |
-|  | [SpeciaLex: A Benchmark for In-Context Specialized Lexicon Learning](https://aclanthology.org/2024.findings-emnlp.52/) (Findings) <br>*Joseph Marvin Imperial and Harish Tayyar Madabushi* |
-|  | [README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP](https://aclanthology.org/2024.findings-emnlp.737/) (Findings) <br>*Zonghai Yao, Nandyala Siddharth Kantu, Guanghao Wei, Hieu Tran, Zhangqi Duan, Sunjae Kwon, Zhichao Yang, README annotation team, and Hong Yu* |
-|  | [Automating Easy Read Text Segmentation](https://aclanthology.org/2024.findings-emnlp.694/) (Findings) <br>*Jesús Calleja, Thierry Etchegoyhen, and David Ponce* |
-| 14:40 - 15:30 | **Invited Talk 2:** [Artificial Intelligence and Plain Language](../talks/dacunha) (Iria da Cunha) -- *Session Chair: Horacio Saggion* |
-| 15:30 - 16:00 | Coffee Break |
-| 16:00 - 16:45 | **Oral Session 2: Special Track** -- *Session Chair: Marcos Zampieri* |
-|  | [Lexical Complexity Prediction and Lexical Simplification for Catalan and Spanish](https://aclanthology.org/2024.tsar-1.9/) <br>*Horacio Saggion, Stefan Bott, Sandra Szasz, Nelson Pérez, Saúl Calderón and Martín Solís* |
-|  | [SciGisPy: a Novel Metric for Biomedical Text Simplification via Gist Inference Score](https://aclanthology.org/2024.tsar-1.10/) <br>*Chen Lyu and Gabriele Pergola* |
-| 16:45 - 17:30 | **Round Table** -- *Session Chair:  Horacio Saggion* |
-| 17:30 - 17:35 | **Closing** -- *Presented by: Matthew Shardlow* |
+| Time | Activity |
+| :-----: | :----------- |
+| 13:00 - 13:05 | **Welcome** -- *Presented by: Matthew Shardlow*|
+| 13:05 - 13:45 | **Invited Talk:** [Controllable Text Simplification](../talks/) (Tomoyuki Kajiwara) -- *Session Chair: Akio Hayakawa* |
+| 13:45 - 15:45 | **Oral Session** -- *Session Chair: TBD* |
+|  | [A Multi-Agent Framework with Diagnostic Feedback for Iterative Plain Language Summary Generation from Cochrane Medical Abstracts]() <br>*Felipe Arias Russi, Carolina Salazar Lara and Ruben Manrique* |
+|  | [Evaluating Health Question Answering Under Readability-Controlled Style Perturbations]() <br>*Md Mushfiqur Rahman and Kevin Lybarger* |
+|  | [Template-Based Text-to-Image Alignment for Language Accessibility: A Study on Visualizing Text Simplifications]() <br>*Belkiss Souayed, Sarah Ebling and Yingqiang Gao* |
+|  | [Document-level Simplification and Illustration Generation: Multimodal Coherence]() <br>*Yuhang Liu, Mo Zhang, Zhaoyi Cheng and Sarah Ebling* |
+|  | [Findings of the TSAR 2025 Shared Task on Readability-Controlled Text Simplification]() <br>*Fernando Alva-Manchego, Regina Stodden, Joseph Marvin Imperial, Abdullah Barayan, Kai North and Harish Tayyar Madabushi* |
+|  | [UoL-UPF at TSAR 2025 Shared Task: A Generate-and-Select Approach for Readability-Controlled Text Simplification]() <br>*Akio Hayakawa, Nouran Khallaf, Horacio Saggion and Serge Sharoff* |
+|  | [EhiMeNLP at TSAR 2025 Shared Task: Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity]() <br>*Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara and Tomoyuki Kajiwara* |
+| 15:45 - 16:15 | Coffee Break |
+| 16:15 - 17:30 | **Poster Session** -- *Session Chair: TBD* |
+|  | [Readability Reconsidered: A Cross-Dataset Analysis of Reference-Free Metrics]() <br>*Catarina Belem, Parker Glenn, Alfy Samuel, Anoop Kumar and Daben Liu* |
+|  | [Efficient On-Device Text Simplification for Firefox with Synthetic Data Fine-Tuning]() <br>*Pablo Romero, Zihao Li and Matthew Shardlow* |
+|  | [Medical Text Simplification: From Jargon Detection to Jargon-Aware Prompting]() <br>*Taiki Papandreou, Jan Bakker and Jaap Kamps* |
+|  | [OneNRC@TSAR2025 Shared Task: Small Models for Readability Controlled Text Simplification]() <br>*Sowmya Vajjala* |
+|  | [GRIPF at TSAR 2025 Shared Task: Towards controlled CEFR level simplification with the help of inter-model interactions]() <br>*David Alfter and Sebastian Gombert* |
+|  | [ITU NLP at TSAR 2025 Shared Task: A Three-Stage Prompting Approach for CEFR-Oriented Text Simplification]() <br>*Kutay Arda Dinç, Fatih Bektaş and Gülşen Eryiğit* |
+|  | [STARLING at TSAR 2025 Shared Task: Leveraging Alternative Generations for Readability Level Adjustment in Text Simplification]() <br>*Piotr Przybyła* |
+|  | [taskGen at TSAR 2025 Shared Task: Exploring prompt strategies with linguistic knowledge]() <br>*Juan Cruz Oviedo, Elisabet Comelles Pujadas, Laura Alonso Alemany and Jordi Atserias Batalla* |
+|  | [EasyJon at TSAR 2025 Shared Task: Evaluation of Automated Text Simplification with LLM-as-a-Judge]() <br>*Paul-Gerhard Barbu, Adrianna Lipska-Dieck and Lena Lindner* |
+|  | [Uniandes at TSAR 2025 Shared Task: Multi-Agent CEFR Text Simplification with Automated Quality Assessment and Iterative Refinement]() <br>*Felipe Arias Russi, Kevin Cohen Solano and Ruben Manrique* |
+|  | [HIT-YOU at TSAR 2025 Shared Task: Leveraging Similarity-Based Few-Shot Prompting, Round-Trip Translation, and Self-Refinement for Readability-Controlled Text Simplification]() <br>*Mao Shimada, Kexin Bian, Zhidong Ling and Mamoru Komachi* |
+|  | [SQUREL at TSAR 2025 Shared Task: CEFR-Controlled Text Simplification with Prompting and Reinforcement Fine-Tuning]() <br>*Daria Sokova, Anastasiia Bezobrazova and Constantin Orasan* |
+|  | [Archaeology at TSAR 2025 Shared Task: Teaching Small Models to do CEFR Simplifications]() <br>*Rares-Alexandru Roscan and Sergiu Nisioi* |
+|  | [HOPE at TSAR 2025 Shared Task: Balancing Control and Complexity in Readability-Controlled Text Simplification]() <br>*Sujal Maharjan and Astha Shrestha* |
+|  | [HULAT-UC3M at TSAR 2025 Shared Task: A Prompt-Based Approach using Lightweight Language Models for Readability-Controlled Text Simplification]() <br>*Jesus M. Sanchez-Gomez, Lourdes Moreno, Paloma Martínez and Marco Antonio Sanchez-Escudero* |
+|  | [OUNLP at TSAR 2025 Shared Task: Multi-Round Text Simplifier via Code Generation]() <br>*Cuong Huynh and Jie Cao* |
+|  | [Know-AI at TSAR 2025 Shared Task: Text Simplification with Difficulty Critics]() <br>*Yiheng Wu, Jue Hou, Anisia Katinskaia and Roman Yangarber* |
+| 17:30 - 18:00 | **Discussion and Closing** -- *Presented by: TBD* |

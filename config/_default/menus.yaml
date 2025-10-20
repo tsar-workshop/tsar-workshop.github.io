@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: Camera Ready
     url: camera-ready
-  #   weight: 20
-  # - name: Program
-  #   url: program
-  #   weight: 30
+    weight: 20
+  - name: Program
+    url: program
+    weight: 30
   # - name: Invited Talks
   #   url: talks
   #   weight: 40

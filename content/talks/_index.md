@@ -1,5 +1,5 @@
 ---
-title: Invited Talks
+title: Invited Talk
 cms_exclude: true
 
 # Listing view
